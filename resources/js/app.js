@@ -49,3 +49,4 @@ window.POS = {
     }
 };
 // Enhanced form validation
+// Utility functions
