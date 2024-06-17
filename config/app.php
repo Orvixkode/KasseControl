@@ -39,3 +39,4 @@ return [
         App\Providers\RouteServiceProvider::class,
     ],
 ];
+// Performance optimizations
