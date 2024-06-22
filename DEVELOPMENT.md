@@ -9,3 +9,4 @@
 ## Barcode scanning implemented
 ## UI/UX improvements completed
 ## Performance optimization and bug fixes
+## Security Updates
