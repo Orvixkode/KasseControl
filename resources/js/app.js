@@ -50,3 +50,4 @@ window.POS = {
 };
 // Enhanced form validation
 // Utility functions
+// Event listeners
