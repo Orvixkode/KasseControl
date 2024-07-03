@@ -10,3 +10,4 @@
 ## UI/UX improvements completed
 ## Performance optimization and bug fixes
 ## Security Updates
+## API Enhancements
