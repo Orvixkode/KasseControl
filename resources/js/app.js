@@ -48,3 +48,4 @@ window.POS = {
         window.dispatchEvent(new CustomEvent('cart-updated', { detail: this.cart }));
     }
 };
+// Enhanced form validation
