@@ -5,3 +5,4 @@
 ## Sales reporting implemented
 ## Purchase management completed
 ## Customer management system
+## Dashboard analytics improved
