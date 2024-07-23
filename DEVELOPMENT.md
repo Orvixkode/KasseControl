@@ -6,3 +6,4 @@
 ## Purchase management completed
 ## Customer management system
 ## Dashboard analytics improved
+## Barcode scanning implemented
