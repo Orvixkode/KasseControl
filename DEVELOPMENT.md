@@ -7,3 +7,4 @@
 ## Customer management system
 ## Dashboard analytics improved
 ## Barcode scanning implemented
+## UI/UX improvements completed
